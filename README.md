@@ -165,12 +165,12 @@ We use `while` loops (not `if`) around every `pthread_cond_wait` call because PO
 
 Linux uses the Completely Fair Scheduler (CFS). CFS maintains a virtual runtime (`vruntime`) for each runnable process. At each scheduling decision it picks the process with the smallest `vruntime` (implemented as a red-black tree sorted by vruntime). The `nice` value scales how quickly a process's vruntime accumulates — a process with nice=10 accumulates vruntime faster than one with nice=0, so CFS picks it less often, giving it less CPU time.
 
-**Experiment 1 results (fill in your real numbers):**
+**Experiment 1 results:**
 
 | Container | Nice value | Workload | Real time |
 |-----------|-----------|----------|-----------|
-| exp1      | 0         | cpu_hog 30s | [X]s |
-| exp2      | 10        | cpu_hog 30s | [Y]s |
+| exp1      | 0         | cpu_hog 30s | 0.098s |
+| exp2      | 10        | cpu_hog 30s | 5.131s |
 
 exp2 took longer because CFS assigns nice=10 a weight of roughly 1/3 of nice=0's weight on a 2-core system. The higher-priority process accumulates vruntime more slowly so CFS always prefers it when both are runnable.
 
