@@ -86,12 +86,13 @@ dmesg | tail -3
 | # | What it shows |
 |---|---|
 
-<img width="1100" height="248" alt="0" src="https://github.com/user-attachments/assets/8390e7c6-0420-4e0d-aa02-4df43e51472e" />
+<img width="837" height="562" alt="Screenshot from 2026-04-15 16-54-44" src="https://github.com/user-attachments/assets/351e2924-1999-423a-99e2-2d5c06598d88" />
+
 
 <img width="892" height="132" alt="1 1" src="https://github.com/user-attachments/assets/cabcd951-61e0-40f2-a71b-c2c30d32fe9e" />
 
 | 1 | Two containers running under one supervisor |
-<img width="837" height="562" alt="Screenshot from 2026-04-15 16-54-44" src="https://github.com/user-attachments/assets/f3faa3c3-c2e5-463e-9af6-38d9222f47d6" />
+
 
 
 
