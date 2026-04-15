@@ -100,7 +100,8 @@ dmesg | tail -3
 
 
 | 2 | `engine ps` output with both containers listed |
-<img width="875" height="123" alt="2" src="https://github.com/user-attachments/assets/b49ab3b5-2c4b-46b5-a9c1-cd3d96b3e199" />
+<img width="791" height="251" alt="Screenshot from 2026-04-15 17-06-00" src="https://github.com/user-attachments/assets/40a6bc50-881f-400e-80ac-ecf82f9ea596" />
+
 
 | 3 | Log file contents from `engine logs alpha` |
 <img width="1236" height="280" alt="3" src="https://github.com/user-attachments/assets/5b017bf9-9ead-43f5-bd9e-cf68fde0fbbb" />
