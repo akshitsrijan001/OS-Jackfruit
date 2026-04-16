@@ -127,10 +127,8 @@ exp1 vs exp2 based on priority:
 
 cpuexp vs ioexp based on cpu bound and i/o bound process:
 <img width="1001" height="134" alt="7 2 1" src="https://github.com/user-attachments/assets/4066320b-c110-4a41-bfa1-3a62086d15da" />
+<img width="839" height="388" alt="image" src="https://github.com/user-attachments/assets/24493b21-39f1-43f0-85ee-cd56ade8cf4f" />
 
-<img width="934" height="157" alt="7 2 2" src="https://github.com/user-attachments/assets/cd7e806c-8728-4507-8eda-ed860c84dde8" />
-
-<img width="934" height="157" alt="7 2 3" src="https://github.com/user-attachments/assets/8a21b273-e7a9-42ea-81c0-612e883b7b74" />
 
 | 8 | Supervisor "Clean exit. No zombies." message + `ps aux | grep defunct` empty |
 <img width="997" height="142" alt="8 1" src="https://github.com/user-attachments/assets/71de6d54-de9d-4bec-8396-9408a795f44b" />
