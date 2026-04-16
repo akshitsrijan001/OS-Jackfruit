@@ -109,7 +109,8 @@ dmesg | tail -3
 
 
 | 4 | `engine stop alpha` command and supervisor response |
-<img width="974" height="140" alt="4" src="https://github.com/user-attachments/assets/79999a65-5de2-42bf-9678-faad76fa9a06" />
+<img width="835" height="213" alt="image" src="https://github.com/user-attachments/assets/5ab24c67-5d16-4775-9ab9-be40a8118db1" />
+
 
 | 5 | `dmesg` showing SOFT LIMIT warning for memtest |
 <img width="1288" height="213" alt="5" src="https://github.com/user-attachments/assets/779d6d31-1c71-4106-9507-f3fd264e5c48" />
