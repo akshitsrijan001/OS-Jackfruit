@@ -104,7 +104,8 @@ dmesg | tail -3
 
 
 | 3 | Log file contents from `engine logs alpha` |
-<img width="1236" height="280" alt="3" src="https://github.com/user-attachments/assets/5b017bf9-9ead-43f5-bd9e-cf68fde0fbbb" />
+<img width="1199" height="668" alt="image" src="https://github.com/user-attachments/assets/86d5db2d-523b-4360-823b-d64c74fb4224" />
+
 
 
 | 4 | `engine stop alpha` command and supervisor response |
