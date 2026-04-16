@@ -128,9 +128,10 @@ cpuexp vs ioexp based on cpu bound and i/o bound process:
 
 
 | 8 | Supervisor "Clean exit. No zombies." message + `ps aux | grep defunct` empty |
-<img width="997" height="142" alt="8 1" src="https://github.com/user-attachments/assets/71de6d54-de9d-4bec-8396-9408a795f44b" />
+<img width="824" height="272" alt="image" src="https://github.com/user-attachments/assets/7667f001-ca10-4add-a609-43037eac9056" />
 
-<img width="932" height="240" alt="8 2" src="https://github.com/user-attachments/assets/0e2d7f74-71dc-486f-b81d-8bc00a5f5bcb" />
+
+
 
 
 ---
