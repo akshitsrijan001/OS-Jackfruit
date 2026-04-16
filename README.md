@@ -119,11 +119,7 @@ dmesg | tail -3
 
 | 7 | `time` output for exp1 vs exp2 and cpuexp vs ioexp showing different completion times |
 exp1 vs exp2 based on priority:
-<img width="858" height="206" alt="7 1 1" src="https://github.com/user-attachments/assets/cd7b0a83-ace8-495e-873c-616c0ee60770" />
-
-<img width="954" height="135" alt="7 1 2" src="https://github.com/user-attachments/assets/d8640904-4aaa-4110-be5f-a5673c8df448" />
-
-<img width="1049" height="152" alt="7 1 3" src="https://github.com/user-attachments/assets/32cd47e4-bb36-49b0-b4e8-6261d1249e78" />
+<img width="839" height="388" alt="image" src="https://github.com/user-attachments/assets/31608a59-06a5-47bf-aa3f-0bd4b205498b" />
 
 cpuexp vs ioexp based on cpu bound and i/o bound process:
 <img width="1001" height="134" alt="7 2 1" src="https://github.com/user-attachments/assets/4066320b-c110-4a41-bfa1-3a62086d15da" />
