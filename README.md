@@ -123,7 +123,8 @@ exp1 vs exp2 based on priority:
 
 
 cpuexp vs ioexp based on cpu bound and i/o bound process:
-<img width="1001" height="134" alt="7 2 1" src="https://github.com/user-attachments/assets/4066320b-c110-4a41-bfa1-3a62086d15da" />
+<img width="1223" height="268" alt="image" src="https://github.com/user-attachments/assets/0cd5e057-e247-4d40-8675-8bd52e825271" />
+
 <img width="839" height="388" alt="image" src="https://github.com/user-attachments/assets/24493b21-39f1-43f0-85ee-cd56ade8cf4f" />
 
 
