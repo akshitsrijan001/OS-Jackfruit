@@ -112,13 +112,11 @@ dmesg | tail -3
 <img width="835" height="213" alt="image" src="https://github.com/user-attachments/assets/5ab24c67-5d16-4775-9ab9-be40a8118db1" />
 
 
-| 5 | `dmesg` showing SOFT LIMIT warning for memtest |
-<img width="1288" height="213" alt="5" src="https://github.com/user-attachments/assets/779d6d31-1c71-4106-9507-f3fd264e5c48" />
+| 5 | `dmesg` showing HARD LIMIT kill + `engine ps` showing hard_limit_killed |
+<img width="835" height="213" alt="image" src="https://github.com/user-attachments/assets/860c7176-c8ee-4fdd-83c1-4418d26af7de" />
 
-| 6 | `dmesg` showing HARD LIMIT kill + `engine ps` showing hard_limit_killed |
-<img width="994" height="175" alt="6" src="https://github.com/user-attachments/assets/c53499d0-da54-482b-924a-5eeb5e1407b5" />
 
-| 7 | `time` output for exp1 vs exp2 and cpuexp vs ioexp showing different completion times |
+| 6 | `time` output for exp1 vs exp2 and cpuexp vs ioexp showing different completion times |
 exp1 vs exp2 based on priority:
 <img width="839" height="388" alt="image" src="https://github.com/user-attachments/assets/31608a59-06a5-47bf-aa3f-0bd4b205498b" />
 <img width="814" height="365" alt="image" src="https://github.com/user-attachments/assets/22e8afd1-1c0a-44a0-82f5-9ad34cfc3f8b" />
